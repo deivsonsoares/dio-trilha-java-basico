@@ -7,7 +7,7 @@ public class ContaTerminal {
         Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
         double saldo = 237.48;
 
-        System.out.println("Entre com o número da conta: ");
+        System.out.println("Entre com o número da conta: TESTE EDICAO");
         int conta = scanner.nextInt();
 
         System.out.println("Entre com o número da agência: ");
